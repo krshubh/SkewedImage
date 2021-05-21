@@ -1,4 +1,4 @@
-1) To run :
+## How to run
 	-> python main.py 'image_fol/image_name.jpg' 
 	-> python main.py 'image_name.jpg' 
 
@@ -16,6 +16,6 @@
 	Then rotating the given image.
 	
 	
-![alt text](https://github.com/krshubh/SkewedImage/blob/master/word_rotation_dataset/test/000005100.png?raw=true)
+![Skewed Image](https://github.com/krshubh/SkewedImage/blob/master/word_rotation_dataset/test/000005100.png?raw=true)
 
 
