@@ -14,5 +14,8 @@
 	b) Prediction 
 	There is model.h5 file which I have generated after training. I am currect predicted rotated angle using this model.
 	Then rotating the given image.
+	
+	
+![alt text](https://github.com/krshubh/SkewedImage/blob/master/word_rotation_dataset/test/000005100.png?raw=true)
 
 
