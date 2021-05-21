@@ -2,7 +2,6 @@
 	-> python main.py 'image_fol/image_name.jpg' 
 	-> python main.py 'image_name.jpg' 
 
-
 ## Training
         -> run python train.py
 	
@@ -16,5 +15,7 @@
 	
 	
 ![Skewed Image](https://github.com/krshubh/SkewedImage/blob/master/word_rotation_dataset/test/000005100.png?raw=true)
+
+![Output Image](https://github.com/krshubh/SkewedImage/blob/master/output/000005100.png?raw=true)
 
 
