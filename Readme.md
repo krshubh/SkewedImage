@@ -1,3 +1,7 @@
+## Introduction
+We are given skewed images with some degree. We are predicting the angle of skewed image using CNN based model then rotating 
+it in opposite direction to get unskewed image.
+
 ## How to run
 	-> python main.py 'image_fol/image_name.jpg' 
 	-> python main.py 'image_name.jpg' 
