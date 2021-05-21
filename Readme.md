@@ -3,17 +3,16 @@
 	-> python main.py 'image_name.jpg' 
 
 
-2) Approach :
-	a) Training 
-	For training 
-		-> run python train.py
-		-> change the k value to increase training dataset.
-		   currently, I have used only one random rotated data per image.
-		-> I have created 360 output class for particular degree. 
+## Training
+        -> run python train.py
+	
+## Test
+        -> run python test.py
 
-	b) Prediction 
-	There is model.h5 file which I have generated after training. I am currect predicted rotated angle using this model.
-	Then rotating the given image.
+## Important points
+	-> change the k value to increase training dataset.Currently, we have used only two random rotated data per image.
+	-> We are doing multi-class classification and there are 360 classes for each degree.
+	-> First, predicting rotated angle using this model then rotating the given image.
 	
 	
 ![Skewed Image](https://github.com/krshubh/SkewedImage/blob/master/word_rotation_dataset/test/000005100.png?raw=true)
