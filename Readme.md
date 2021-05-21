@@ -7,10 +7,10 @@ it in opposite direction to get unskewed image.
 	python main.py 'image_name.jpg' 
 
 ## Training
-        python train.py
+	python train.py
 	
 ## Test
-        python test.py
+	python test.py
 
 ## Important points
 	1) Change the k value to increase training dataset.Currently, we have used 
