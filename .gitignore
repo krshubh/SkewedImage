@@ -86,5 +86,5 @@ typings
 *.spyproject
 
 #kgqg files
-data
+# data
 models
